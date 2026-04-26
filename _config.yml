@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+title: "reaper-abliteration analysis"
+description: "Forensic analysis of HauhauCS's closed-source and proprietary reaper-abliteration tool"
+show_downloads: false
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
