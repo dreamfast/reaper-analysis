@@ -24,8 +24,9 @@ Forensic analysis of HauhauCS's closed-source and proprietary `reaper-abliterati
 - [Licensing](#licensing)
 - [Reaper's additions](#reapers-additions)
 - [False and misleading claims](#false-and-misleading-claims)
-- [Methodology deflection timeline](#methodology-deflection-timeline)
-- [Benchmark platform vs. own model benchmarks](#benchmark-platform-vs-own-model-benchmarks)
+  - [Methodology deflection timeline](#methodology-deflection-timeline)
+  - [HauhauCS Discord response](#hauhaucs-discord-response)
+  - [Benchmark platform vs. own model benchmarks](#benchmark-platform-vs-own-model-benchmarks)
 - [Independent verification](#independent-verification)
 - [Links](#links)
 - [Reaper Abliteration README](reaper_readme.md)
@@ -1196,6 +1197,32 @@ HauhauCS has been asked about his methodology at least five times across Hugging
  | ~Apr 17, 2026 | daniel-dona on 3.6-35B | [HuggingFace #3](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive/discussions/3) | "Please show something to prove the 'lossless' part" | No response, 7 👀 reactions from community |
 
 ArliAI's original challenge is worth quoting in full: *"No information how you tested for refusals - so I cannot compare to Derestricted or Heretic version, maybe they also would have zero refusals on your set of queries. No documentation what exactly did you do to decensor and how to reproduce. No benchmarks of your model vs the original vs other popular decensored variants. Without that you cannot claim that the original model capabilities were preserved if you did not measure them."*
+
+## HauhauCS Discord response
+
+The following messages were posted by HauhauCS in the Reaper Studios Discord server in response to the plagiarism evidence.
+
+![HauhauCS Discord response, part 1](PeXKR.webp)
+
+![HauhauCS Discord response, part 2](d5ccdd.webp)
+
+> I've banned Pew (again) for breaking the whole drama rules he *supposedly* agreed to when he joined the server with this user, but left his reddit link here for whoever wants to read still.
+
+> My first models came out in January, people were **very** receptive. In February I was thinking if I can share **some** of my methodologies with people and keeping some to myself. Tried to see if Heretic was sufficiently compatible as a base so I don't give away too much, it wasn't (not an easy adaptation at least). On top of that, more issues started building up because of his malicious AGPL and **nonstop** harassment so I decided to drop it and just use my project (aka whoever wants to use my models, is happy to do so freely, whoever isn't, good for them). In March a member found the (abandoned) dependency and asked me about it so when I realized it, I removed it. **This is all months ago and has been closed ever since.**
+>
+> I don't know if I'll bother replying to them, they've been trying to get things out of me for months now and I feel this'll just give them more fuel to hate.
+
+> No good deed goes unpunished
+
+> Eh, I told members already what that was (and it was abandonware after a short while of starting it), all good
+
+> If you read his "investigations" he goes from model to model that my project is providing inferior results but also keeps saying my project is copy-pasted heretic but then proceeds to talk about how i "attack" more aspects of the model and i attach loras etc; so which one is it then?
+
+> My first release was in January...before even starting to try and work on that shared project. In January I did GPT-OSS as a release with mxfp4. 2 things Heretic was incapable doing at the time
+
+> There's a lot of 'issues' with his investigations 🥷
+
+> But really guys, there truly is no point to getting into it, let them be
 
 ## Benchmark platform vs. own model benchmarks
 
